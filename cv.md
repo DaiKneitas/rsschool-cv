@@ -48,3 +48,17 @@ console.log(`Total sum you have to pay: ${total}`);
 ## Experience
 
 - 10 years experience in outdoor advertising (project manegament, working with CorelDraw, etc)
+
+## Education
+Bachelor's degree of Public Administration at Klaipėda University
+<br>
+Currently learning from these online UDEMY courses:
+<br>
+- Jonas Schmedtmann - Build Responsive Real-World Websites with HTML and CSS
+- Jonas Schmedtmann - Complete Javascript course 2022
+- Jose Portilla -Complete Python bootcamp
+
+## English
+
+- C1 - Advanced.
+- Learned english by myself through out all my life. When I was a kid, started learning by playing video games. Later in life, started reading books, watching films and TV shows, almost exclusively in english language.
