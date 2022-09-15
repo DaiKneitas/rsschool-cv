@@ -22,3 +22,29 @@
 - Javascript
 - Python
 - GitHub
+
+## Code examples
+```js
+// Calculator //
+
+const bills = [47, 95, 125, 546, 14, 109, 30, 999, 72, 362];
+let tips = [];
+let total = [];
+
+const calcTip = function (bill) {
+    return bill >= 50 && bill <= 300 ? bill * 0.15 : bill * 0.2;
+}
+
+for (let x = 0; x < bills.length; x++) {
+    const tip = calcTip(bills[x])
+    tips.push(tip)
+    total.push(bills[x] + tip)
+}
+
+console.log(`Tips: ${tips}`);
+console.log(`Total sum you have to pay: ${total}`);
+```
+
+## Experience
+
+- 10 years experience in outdoor advertising (project manegament, working with CorelDraw, etc)
