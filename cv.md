@@ -59,4 +59,4 @@ Currently learning from these online UDEMY courses:
 ## English
 
 - C1 - Advanced.
-- Learned english by myself, through out all my life. When I was a kid, started learning by playing video games. Later in life, started reading books, watching films and TV shows, almost exclusively in english language.
+- Learned english by myself, throughout all my life. When I was a kid, started learning by playing video games. Later in life, started reading books, watching films and TV shows, almost exclusively in english language.
