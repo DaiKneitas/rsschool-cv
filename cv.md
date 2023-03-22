@@ -11,9 +11,7 @@
 
 ## Summary
 
-<p>&emsp;&emsp;I worked for about 10 years in outdoor advertising industry (First 5 years as a Specialist and the last 5 years as a Project Manager). Always had some interest in IT field, so one day, I finally decided to change my profession to a programmer. Currently I am working with HTML, CSS and Javascript, but have some learning expierence with Python too. I always had a mindset, that if I wanted to learn something and if I put enough time and effort into it, I can definitely do it. One of the main reasons IT field interested me, because in there, almost everything depends on your skill level. The more expierence and knowledge you have, your services are sought more and more. My first goal is to become mid developer and hope that 
-
- the future, I will climb to even higher positions.</p>
+<p>&emsp;&emsp;I worked for about 10 years in outdoor advertising industry (First 5 years as a Specialist and the last 5 years as a Project Manager). Always had some interest in IT field, so one day, I finally decided to change my profession to a programmer. Currently I am working with HTML, CSS and Javascript, but have some learning expierence with Python too. I always had a mindset, that if I wanted to learn something and if I put enough time and effort into it, I can definitely do it. One of the main reasons IT field interested me, because in there, almost everything depends on your skill level. The more expierence and knowledge you have, your services are sought more and more. My first goal is to get a job in this industry and later after I gained enough experiance and improved my skill level, to become full-stack developer.</p>
 
 ## Skills
 
@@ -61,4 +59,4 @@ Currently learning from these online UDEMY courses:
 ## English
 
 - C1 - Advanced.
-- Learned english by myself through out all my life. When I was a kid, started learning by playing video games. Later in life, started reading books, watching films and TV shows, almost exclusively in english language.
+- Learned english by myself, through out all my life. When I was a kid, started learning by playing video games. Later in life, started reading books, watching films and TV shows, almost exclusively in english language.
